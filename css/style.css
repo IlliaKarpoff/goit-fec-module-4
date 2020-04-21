@@ -7,7 +7,7 @@ html {
   box-sizing: inherit;
 }
 body {
-    font-family: "OpenSans", "Roboto", "Arial", sans-serif;
+    font-family: "Open Sans", "Roboto", "Arial", sans-serif;
 }
 body,
 h1,
@@ -39,7 +39,7 @@ a {
 .logo {
   float: left;
   font-size: 30px;
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   color: rgb(81, 81, 81);
   text-transform: uppercase;
   line-height: 32px;
@@ -66,7 +66,7 @@ a {
 .nav-list-item a {
   font-size: 14px;
   font-weight: 600;
-  font-family: "OpenSans";
+  font-family: 'Open Sans', sans-serif;
   color: rgb(81, 81, 81);
   font-weight: bold;
   text-transform: uppercase;
@@ -86,7 +86,7 @@ a {
 .section-heading {
   display: block;
   font-size: 48px;
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-weight: 900;
   color: rgb(81, 81, 81);
   text-transform: uppercase;
@@ -141,7 +141,7 @@ a {
   padding-top: 10px;
   text-align: center;
   font-size: 18px;
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-weight: 900;
   text-transform: uppercase;
   color: rgb(255, 255, 255);
@@ -150,7 +150,7 @@ a {
 }
 .product-name a {
   font-size: 18px;
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-weight: 900;
   color: rgb(255, 255, 255);
   text-transform: uppercase;
@@ -189,7 +189,7 @@ a {
 
 .article-heading {
   font-size: 18px;
-  font-family: "OpenSans";
+  font-family: 'Open Sans', sans-serif;
   font-weight: 600;
   color: rgb(85, 82, 82);
   line-height: 26px;
@@ -205,7 +205,7 @@ a {
 }
 .article-text {
   font-size: 14px;
-  font-family: "OpenSans";
+  font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   color: rgb(85, 82, 82);
   line-height: 26px;
@@ -218,7 +218,7 @@ a {
   cursor: pointer;
   text-align: center;
   font-size: 16px;
-  font-family: "OpenSans";
+  font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   color: rgb(255, 255, 255);
   line-height: 26px;
