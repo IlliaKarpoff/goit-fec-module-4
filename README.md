@@ -1,5 +1,4 @@
-# Goit-FE-core/module-04
+# GoIT-Frontend-core/module-04
 Homework-04          
 float          
 Обтекание
-
